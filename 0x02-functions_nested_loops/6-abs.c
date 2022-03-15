@@ -1,8 +1,8 @@
 #include "main.h"
 /**
- * _abs - a function that computes the absolute value of an integer
- * a: integer input
- * Return: absolute value of a
+ * _abs - calculate the absolute value of the number from zero.
+ * @a: the integer to be converted.
+ * Return: absolute value of the input number.
  */
 int _abs(int a)
 {
